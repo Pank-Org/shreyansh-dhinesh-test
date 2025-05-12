@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Get data",
+			"name": "updated",
 			"event": [
 				{
 					"listen": "test",
@@ -28,7 +28,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{base_url}}/info?id=1/test/12345..mlmlml, mmnhhh",
+					"raw": "{{base_url}}/info?id=1/test/12345..mlmlml, mmnhhh/kknknk",
 					"host": [
 						"{{base_url}}"
 					],
@@ -38,7 +38,7 @@
 					"query": [
 						{
 							"key": "id",
-							"value": "1/test/12345..mlmlml, mmnhhh"
+							"value": "1/test/12345..mlmlml, mmnhhh/kknknk"
 						}
 					]
 				},
