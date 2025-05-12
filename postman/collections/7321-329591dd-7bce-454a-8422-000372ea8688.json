@@ -337,6 +337,18 @@
 				"description": "This is a DELETE request, and it is used to delete data that was previously created via a POST request. You typically identify the entity being updated by including an identifier in the URL (eg. `id=1`).\n\nA successful DELETE request typically returns a `200 OK`, `202 Accepted`, or `204 No Content` response code."
 			},
 			"response": []
+		},
+		{
+			"name": "Update data 2",
+			"id": "1122189-bb0ade14-24b7-4744-83cc-7d3e023ca632",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	],
 	"event": [
