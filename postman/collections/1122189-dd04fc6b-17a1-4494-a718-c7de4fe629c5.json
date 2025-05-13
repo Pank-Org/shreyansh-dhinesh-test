@@ -33,7 +33,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{base_url}}/info?id=1/test/12345..mlmlml, mmnhhhsd",
+					"raw": "{{base_url}}/info?id=1/test/12345..mlmlml, mmnhhhsds",
 					"host": [
 						"{{base_url}}"
 					],
@@ -43,7 +43,7 @@
 					"query": [
 						{
 							"key": "id",
-							"value": "1/test/12345..mlmlml, mmnhhhsd"
+							"value": "1/test/12345..mlmlml, mmnhhhsds"
 						}
 					]
 				},
